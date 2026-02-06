@@ -17,8 +17,6 @@ Proje kapsamında aşağıdaki temel beceriler pekiştirilecektir:
 - Matematiksel operatörlerin kullanımı (`+`, `-`, `*`, `/`, `//`, `%`, `**`)
 - Tip dönüşümü (`cast`) işlemleri
 
----
-
 ## Teknik Gereksinimler
 
 Aşağıda belirtilen adımlar `main.py` dosyası içerisinde eksiksiz olarak uygulanmalıdır.
@@ -46,13 +44,9 @@ Aşağıda belirtilen adımlar `main.py` dosyası içerisinde eksiksiz olarak uy
 
 - [ ] Yolculuğun **gidiş-dönüş** toplam maliyeti hesaplanmalı (`* 2` veya `+` operatörü kullanılabilir).
 
----
-
 ## İpuçları
 
 - `input()` fonksiyonu her durumda **string** tipinde değer döndürür. Matematiksel işlem gerçekleştirebilmek için ilgili değerlerin `float()` veya `int()` fonksiyonları aracılığıyla uygun tipe dönüştürülmesi gerekmektedir.
 - Kodlarınızı yazarken yorum satırları (`#`) kullanarak her adımın ne işe yaradığını açıklamanız önerilir.
-
----
 
 > **Not:** Sorularınız veya karşılaştığınız teknik sorunlar için eğitim ekibine başvurabilirsiniz.

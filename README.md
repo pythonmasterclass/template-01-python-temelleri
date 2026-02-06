@@ -1,12 +1,12 @@
-# 🐍 Proje 01: Veri Tipleri ve Operatörler Labı
+# Proje 01: Veri Tipleri ve Operatörler Labı
 
-## 📌 Genel Bakış
+## Genel Bakış
 
 Bu proje, Python Masterclass eğitim serisi kapsamındaki ilk teknik uygulamadır. Amaç; kullanıcıyla etkileşime giren, aldığı verileri işleyen ve matematiksel hesaplamalar yapan dinamik bir Python scripti geliştirmektir.
 
 ---
 
-## 🎯 Proje Senaryosu
+## Proje Senaryosu
 
 Bu projede bir **"Yolculuk Maliyet Hesaplayıcı"** programı geliştirilecektir. Program, kullanıcıdan yolculuğa ilişkin temel bilgileri alacak, gerekli hesaplamaları gerçekleştirecek ve sonuçları ekrana yazdıracaktır.
 
@@ -19,7 +19,7 @@ Proje kapsamında aşağıdaki temel beceriler pekiştirilecektir:
 
 ---
 
-## 🚀 Teknik Gereksinimler
+## Teknik Gereksinimler
 
 Aşağıda belirtilen adımlar `main.py` dosyası içerisinde eksiksiz olarak uygulanmalıdır.
 
@@ -48,7 +48,7 @@ Aşağıda belirtilen adımlar `main.py` dosyası içerisinde eksiksiz olarak uy
 
 ---
 
-## 🛠️ İpuçları
+## İpuçları
 
 - `input()` fonksiyonu her durumda **string** tipinde değer döndürür. Matematiksel işlem gerçekleştirebilmek için ilgili değerlerin `float()` veya `int()` fonksiyonları aracılığıyla uygun tipe dönüştürülmesi gerekmektedir.
 - Kodlarınızı yazarken yorum satırları (`#`) kullanarak her adımın ne işe yaradığını açıklamanız önerilir.

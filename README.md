@@ -2,13 +2,13 @@
 
 ## Genel Bakış
 
-Bu proje, Python Masterclass eğitim serisi kapsamındaki ilk teknik uygulamadır. Amaç; kullanıcıyla etkileşime giren, aldığı verileri işleyen ve matematiksel hesaplamalar yapan dinamik bir Python scripti geliştirmektir.
+Bu proje, Python Masterclass eğitim serisi kapsamındaki ilk teknik uygulamadır.
 
----
+Amaç; kullanıcıyla etkileşime giren, aldığı verileri işleyen ve matematiksel hesaplamalar yapan dinamik bir Python scripti geliştirmektir.
 
 ## Proje Senaryosu
 
-Bu projede bir **"Yolculuk Maliyet Hesaplayıcı"** programı geliştirilecektir. Program, kullanıcıdan yolculuğa ilişkin temel bilgileri alacak, gerekli hesaplamaları gerçekleştirecek ve sonuçları ekrana yazdıracaktır.
+Bu projede bir **Yolculuk Maliyet Hesaplayıcı** programı geliştirilecektir. Program, kullanıcıdan yolculuğa ilişkin temel bilgileri alacak, gerekli hesaplamaları gerçekleştirecek ve sonuçları ekrana yazdıracaktır.
 
 Proje kapsamında aşağıdaki temel beceriler pekiştirilecektir:
 
